@@ -15,15 +15,16 @@ Este es mi sitio personal creado con **GitHub Pages** y **Markdown**.
 ## 🔧 Tecnologías que uso
 
 - Python 🐍
-- JavaScript ⚙️
+- Java ⚙️
+- HTML 💻
 - Haskell λ
 - Linux 🐧
 
 ## 📫 Contáctame
 
 Puedes encontrarme en:
-- [GitHub](https://github.com/nombreusuario)
-- [Correo](mailto:tuemail@example.com)
+- [GitHub](https://github.com/josolmedo)
+- [Correo](mailto:joseangelolmedoguevara@gmail.com)
 
 ---
 
